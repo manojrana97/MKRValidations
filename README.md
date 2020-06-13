@@ -1,5 +1,5 @@
 # MKRValidations
-Handle form validations in less code
+Handle form validations in less code. No need to show and check for empty and invalid data. the class check the data show the alert according to your entered data.
 # Usage
 
     //MARK:- Private Properties
